@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "955575060201",
+    "firebase_url": "https://fir-prac-456c3.firebaseio.com",
+    "project_id": "fir-prac-456c3",
+    "storage_bucket": "fir-prac-456c3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:955575060201:android:98ddd4cb09504b435ad278",
+        "android_client_info": {
+          "package_name": "jinglebells.firebaseprac.firebase_prac"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "955575060201-v2jdkj5b0e15llcqk47r057uikd1f7s3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAU1hgNHpJTOZsG-AwehfJy9YzUjm0Rfiw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "955575060201-v2jdkj5b0e15llcqk47r057uikd1f7s3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
